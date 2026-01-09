@@ -7,7 +7,7 @@
 
 <!-- Elegant Subtitle -->
 <a href="https://github.com/Cinnamobot">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Solving+problems+with+code;Building+useful+tools;Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Solving+problems+with+code;Building+useful+tools;Vim+user+btw+%F0%9F%98%8E;Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5" />
 </a>
 
 <br><br>
@@ -18,6 +18,8 @@
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Cinnamobot&style=for-the-badge&color=ff69b4&labelColor=fff0f5&label=Visitors" />
+&nbsp;
+<img src="https://img.shields.io/badge/Editor-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 
 </div>
 
@@ -84,6 +86,10 @@ Making everyday life easier, one line of code at a time.
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,docker,vscode" />
+
+<br><br>
+
+<sub><i>* This profile was made in Vim</i></sub>
 
 </div>
 
