@@ -54,6 +54,8 @@ Making everyday life easier, one line of code at a time.
 
 🌸 Python & JavaScript enthusiast
 
+🌸 Sorry, I can't be friends with nano users
+
 </div>
 
 <br>
@@ -86,10 +88,6 @@ Making everyday life easier, one line of code at a time.
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,docker,vscode" />
-
-<br><br>
-
-<sub><i>* This profile was made in Vim</i></sub>
 
 </div>
 
