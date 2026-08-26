@@ -1,30 +1,15 @@
 <div align="center">
 
-<!-- Cinnamoroll palette: sky blue → soft pink -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EC6E8,100:F7A8C4&height=140&section=header&text=cinnamobot&fontSize=56&fontColor=FFF&animation=fadeIn&fontAlignY=50" />
+<br>
+
+<!-- sky-colored cafe banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9FD4EC,50:CFE9F5,100:F9E3EE&height=150&section=header&text=Cafe%20Cinnamon%20%7C%20cinnamobot&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" />
 
 <br>
 
-**developer · japan · vim btw**
-
+**お空いろのカフェへ、ようこそ。**
 <br>
-
-```bash
-$ whoami
-  → building tools that actually help people
-  → turning ⚡ into 💡, one line at a time
-
-$ editor
-  → vim
-```
-
-<br>
-
-## 🧰 toolchain
-
-<br>
-
-![Tools](https://skillicons.dev/icons?i=python,js,ts,rust,dart,react,nodejs,flutter,git,docker)
+*しっぽがくるんと可愛い、開発botがお出迎えするよっ*
 
 <br>
 
@@ -32,11 +17,35 @@ $ editor
 
 <br>
 
-## 📈 stats
+## ☕ MENU — きょうのつくったもの
 
 <br>
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cinnamobot&theme=default)
+| FOOD（本体） | おすすめの一品 |
+|---|---|
+| **きもちカレー** | 困ってる人を、ぽんっと助けるツールを製造 |
+| **ほわほわオムライス** | Python / JavaScript で包んだ、やさしいコード |
+| **お空のブルーソーダ** | TypeScript / Rust でしゅわっと軽い処理 |
+
+<br>
+
+| SWEETS（道具） | ひとくちスイーツ |
+|---|---|
+| **しっぽティラミス** | React / Node.js / Flutter |
+| **まんまる焼き** | Docker / Git で、まるっと配送 |
+| **キラキラアイス** | Vim でしゃりしゃり編集（nanoはお断り） |
+
+<br>
+
+---
+
+<br>
+
+## 📖 きょうのできごと（GitHub Stats）
+
+<br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cinnamobot&theme=default" />
 
 <br>
 
@@ -50,6 +59,10 @@ $ editor
 
 <br>
 
-<small>no fluff. just good tools. ✈️☁️</small>
+**🎀 また、ふわふわ飛んでくるね。おかえりなさい、いつでも。** 🎀
+
+<br>
+
+<sub>Cafe Cinnamon は、お空の雲の上にある、ひとにやさしい道具をつくるお店です。</sub>
 
 </div>
