@@ -1,62 +1,30 @@
 <div align="center">
 
-<!-- Soft Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=200&section=header&text=v!&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+<!-- Cinnamoroll palette: sky blue → soft pink -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EC6E8,100:F7A8C4&height=140&section=header&text=cinnamobot&fontSize=56&fontColor=FFF&animation=fadeIn&fontAlignY=50" />
 
 <br>
 
-<!-- Elegant Subtitle -->
-<a href="https://github.com/Cinnamobot">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Solving+problems+with+code;Building+useful+tools;Vim+user+btw+%F0%9F%98%8E;Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5" />
-</a>
-
-<br><br>
-
-<!-- Clean Badges -->
-<a href="https://github.com/Cinnamobot?tab=followers">
-  <img src="https://img.shields.io/github/followers/Cinnamobot?style=for-the-badge&color=ff69b4&labelColor=fff0f5&label=Followers" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Cinnamobot&style=for-the-badge&color=ff69b4&labelColor=fff0f5&label=Visitors" />
-&nbsp;
-<img src="https://img.shields.io/badge/Editor-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-
-</div>
+**developer · japan · vim btw**
 
 <br>
 
----
+```bash
+$ whoami
+  → building tools that actually help people
+  → turning ⚡ into 💡, one line at a time
+
+$ editor
+  → vim
+```
 
 <br>
 
-<!-- About Section -->
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/149035689?v=4" width="100" style="border-radius: 50%;" />
-
-### About Me
+## 🧰 toolchain
 
 <br>
 
-**Developer** based in Japan 🇯🇵
-
-<br>
-
-I love solving real-world problems by building useful tools.
-
-Making everyday life easier, one line of code at a time.
-
-<br>
-
-🌸 Turning inconveniences into convenient solutions
-
-🌸 Building tools that actually help people
-
-🌸 Python & JavaScript enthusiast
-
-🌸 Sorry, I can't be friends with nano users
-
-</div>
+![Tools](https://skillicons.dev/icons?i=python,js,ts,rust,dart,react,nodejs,flutter,git,docker)
 
 <br>
 
@@ -64,32 +32,17 @@ Making everyday life easier, one line of code at a time.
 
 <br>
 
-<!-- Tech Stack -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="60" />
-
-### Tech Stack
+## 📈 stats
 
 <br>
 
-**Main Languages**
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cinnamobot&theme=default)
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<br>
 
-<br><br>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,rust,dart,java,c,swift,php,html,css" />
-
-<br><br>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,docker,vscode" />
-
-</div>
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cinnamobot&theme=default"/>
+&nbsp;
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cinnamobot&theme=default&utcOffset=9"/>
 
 <br>
 
@@ -97,54 +50,6 @@ Making everyday life easier, one line of code at a time.
 
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
+<small>no fluff. just good tools. ✈️☁️</small>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" />
-
-### GitHub Stats
-
-<br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cinnamobot&theme=radical" />
-
-<br>
-
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cinnamobot&theme=radical"/>
-&nbsp;
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cinnamobot&theme=radical&utcOffset=9"/>
-
-<br>
-
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cinnamobot&theme=radical"/>
-&nbsp;
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cinnamobot&theme=radical"/>
-
-<br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cinnamobot&theme=radical&hide_border=true&background=161b22&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30" />
-
-*Thanks for visiting!*
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=120&section=footer" />
 </div>
