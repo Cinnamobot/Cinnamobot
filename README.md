@@ -1,74 +1,74 @@
 <div align="center">
 
-<br>
+# 🐾 cinnamon@dollhouse
 
-<!-- sky-colored cafe banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9FD4EC,50:CFE9F5,100:F9E3EE&height=150&section=header&text=Cafe%20Cinnamon%20%7C%20cinnamobot&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" />
+<!--
+  neofetch-style profile.
+  ASCII art: mechanically converted from the actual GitHub avatar
+  (a BJD doll in a black hooded coat - the avatar is NOT a Cinnamoroll puppy).
+  Theme-safe colors via GitHub CSS variables (dark/light compatible).
+-->
 
-<br>
+<table>
+<tr>
+<td>
 
-**お空いろのカフェへ、ようこそ。**
-<br>
-*しっぽがくるんと可愛い、開発botがお出迎えするよっ*
+<pre>
+@@@@@@@@+.::::+#%%%%%#%%%%%%%%@@%%#*%@@@@@@@@@@@@@@@@@
+@@@@@@@@+.::.:#%%%%%%%%%%%%%%%%%%%##*@@@@@@@@@@@@@@@@@
+@@@@@@@@+.::.:#%%%@%@%%%%%%%%%%%#%%#*#@@@@@@@@@@@@@@@@
+@@@@@@@@+.::-:*%%%%%%#%%%%%%%###%%%#**@@@@@@@@@@@@@@@@
+@@@@@@@@=.::::+%#%%#%##########%%%##++%@@@@@@@@@@@@@@@
+@@@@@@@@-:::::=%#%%*#######%#%%#*++#+*#@@@@@@@@@@@@@@@
+@@@@@@@@:.==.-+###%*####+*%@@@=+*+*#*###@@@@@@@@@@@@@@
+@@@@@@@@:.*+.:*###%**###+#@@@@%@#**#*#%+%@@@@@@@@@%%%@
+@@@@@@@%::-:..-***##*###%@@@@@@%+**#*%#+%@@@@@%%%%%%%@
+@@@@@@@#.:+-..:-*#*#####%@@@@%+:***#+%%-*@@@@@@@%%%%%@
+@@@@@@@=.-#:-.::=##+######++=-.=#**#=#@*=%%%%%@@%@@@@@
+@@@@@@@::-+-=..::#@#*###%*..:::+#*##:#%@*######%%%%%%@
+%@@@@@* -::::. -:+%@*#*#%#--==-*##%=.=*%@%%%%%%%%%%%%%
+@@@@@%.--..  . ---%%%***%%*=--=*###..-=#%%%@@@@@@@@@%%
+**@@@+.*-:......=:*%@*#*##%*+=-##%#:-=-+#%@@@@@@@@@@@%
+-:=@@@%..:..... --=%%%*%#%%*++-%%%#:-==-##%@%%@@@@%%%%
+--:=*#= ..:.....:=-%%@%%%@%##*##+@#.:--:+##%@@@@%%%@@@
+---. . .::.......--*%@%#%@%%=-#-=@+ ::...*##@@@%%@@%%%
+:::....::.. .. .:.==%%%#%#:+* *:%%: .:.:.=##%@%%%%%%%%
+.  ...:---::. ....:=*%@##%= **=*@=.. ..:=+*##%%#######
+  ........:::......-=#%%+##=*%*#- ... ..-=+###%%######
+..::..:::......  ..:-+%%#####@#  . .. .:---+**#%%#####
+::::..:::::::...  ..--%%%%%###= .  ...::-=:.::-=*#####
+::::..:::.:::.   .. -:*%%*+=*+=+#=    .:-=-:.   .:=*##
+::... ::::.:::..... .-+%%%-.---%@%:-::. . :--......::=
+::.....::::::::....:-:-#%%+:--+@@+:===:*#*=:--.......:
+.:....::::::::::...:+-=##%#+#%%%#----:=@@@@@%#+::....:
+</pre>
 
-<br>
+</td>
+<td align="left">
 
----
+<pre>
+            <b>cinnamon@dollhouse</b>
+            ──────────────────────
+            <b>OS</b>          CinnamonOS 23.04 (sugar-flavored)
+            <b>Host</b>        Dollhouse 0409
+            <b>Kernel</b>      5.15.0-cinnamon-generic
+            <b>Uptime</b>      0 years, 7 months, 24 days
+            <b>Packages</b>    24 (cinnamon-flavored repos)
+            <b>Shell</b>       zsh 5.9
+            <b>Resolution</b>  460x460 (avatar)
+            <b>Editor</b>      vim (こだわり)
+            <b>DE</b>          Cinnamon Desktop
+            <b>Theme</b>       Pastel Sky [Cinnamon]
+            <b>Terminal</b>    kitty
+            <b>CPU</b>         Cinnamon Roll CPU (1.2GHz)
+            <b>GPU</b>         Powdered Sugar GPU
+            <b>Memory</b>      7.8GiB / 12GiB
+            <b>Languages</b>   Python / JS / TS / Rust
+            <b>Status</b>      Hello, world! 🌸
+</pre>
 
-<br>
-
-## ☕ MENU — きょうのつくったもの
-
-*メニュー名はぜんぶ、ぼくがつくっているもののたとえだよっ*
-
-<br>
-
-**🍚 FOOD（つくるもの）**
-
-| メニュー | 実は… |
-|---|---|
-| **きもちカレー** | 困ってる人を、ぽんっと助けるツール開発 |
-| **ほわほわオムライス** | Python / JavaScript のコード |
-| **お空のブルーソーダ** | TypeScript / Rust で、しゅわっと軽い処理 |
-
-<br>
-
-**🍰 SWEETS（つかうもの）**
-
-| メニュー | 実は… |
-|---|---|
-| **しっぽティラミス** | React / Node.js / Flutter のフロントエンド |
-| **まんまる焼き** | Docker / Git で、まるっと配る |
-| **キラキラアイス** | Vim でしゃりしゃり編集（nanoはお断り） |
-
-<br>
-
----
-
-<br>
-
-## 📖 きょうのできごと（GitHub Stats）
-
-<br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cinnamobot&theme=default" />
-
-<br>
-
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cinnamobot&theme=default"/>
-&nbsp;
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cinnamobot&theme=default&utcOffset=9"/>
-
-<br>
-
----
-
-<br>
-
-**🎀 また、ふわふわ飛んでくるね。おかえりなさい、いつでも。** 🎀
-
-<br>
-
-<sub>Cafe Cinnamon は、お空の雲の上にある、ひとにやさしい道具をつくるお店です。</sub>
+</td>
+</tr>
+</table>
 
 </div>
